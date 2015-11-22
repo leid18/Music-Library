@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=artistName
+comment0.target=Artist(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Artist\n\ This\ constructor\ is\ to\ create\ an\ artist\ object\ whose\ name\ is\ using\ the\ parameter\ artistName.\n
+comment1.params=
+comment1.target=java.lang.String\ getArtistName()
+comment1.text=\n\ This\ method\ is\ to\ get\ the\ name\ of\ the\ artist.\n
+comment2.params=artistAge
+comment2.target=void\ setAge(int)
+comment2.text=\n\ This\ method\ is\ to\ set\ the\ age\ of\ the\ artist.\n
+comment3.params=
+comment3.target=int\ getAge()
+comment3.text=\n\ This\ method\ is\ to\ return\ the\ age\ of\ the\ artist.\n
+numComments=4

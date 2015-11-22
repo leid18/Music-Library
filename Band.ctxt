@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=bandName
+comment0.target=Band(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Band\n\ @param\ bandMembers\ bandMembers\ is\ an\ ArrayList\ to\ store\ soloist\ objects.\n
+comment1.params=bandMember
+comment1.target=void\ addBandMember(Soloist)
+comment1.text=\n\ This\ method\ add\ soloist\ into\ the\ bandMembers\ ArrayList.\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getMember()
+comment2.text=\n\ This\ method\ returns\ all\ the\ elements\ inside\ the\ bandMember\ sArrayList.\n
+numComments=3
